@@ -11,7 +11,7 @@
 		"modURL": "https://github.com/renpre98/goulash",
 		"downloadURL": "https://github.com/renpre98/goulash/releases/download/v0.2/Goulash.zip",
 		"testedon": {
-			"tldversion": "1.93",
+			"tldversion": "1.94",
 			"mlversion": "0.2.7.4"
 		},
 		"dependencies": ["ModComponent"],
