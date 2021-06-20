@@ -5,11 +5,11 @@
 		"name": "Goulash",
 		"author": "<a href='https://github.com/renpre98' target='_blank'>renpre98</a>",
 		"authorURL": "",
-		"version": "0.2",
-		"updated": "2021-02-09",
-		"description": "Adds Goulash made from Venison or Wolf to the Game which can than be canned to decay slower",
+		"version": "0.3.2",
+		"updated": "2021-06-20",
+		"description": "Adds goulash made from venison or wolf to the game which can than be canned to decay slower",
 		"modURL": "https://github.com/renpre98/goulash",
-		"downloadURL": "https://github.com/renpre98/goulash/releases/download/v0.2/Goulash.zip",
+		"downloadURL": "https://github.com/renpre98/goulash/releases/download/v0.3.2/goulash.modcomponent",
 		"testedon": {
 			"tldversion": "1.94",
 			"mlversion": "0.2.7.4"
