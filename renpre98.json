@@ -14,7 +14,7 @@
 			"tldversion": "1.93",
 			"mlversion": "0.2.7.4"
 		},
-		"dependencies": ["AssetLoader","ModComponent"],
+		"dependencies": ["ModComponent"],
 		"status": {
 			"working": true,
 			"issues": "",
